@@ -1,6 +1,6 @@
 # 3D Gaissian Splatting Demo
 
-## Reference
+## References and helpful links
 
 - Original Paper and repo: https://github.com/graphdeco-inria/gaussian-splatting
 - SfM for initialization: https://github.com/colmap/colmap
